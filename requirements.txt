@@ -1,0 +1,14 @@
+langchain 
+langchain-core 
+langchain-community 
+pypdf
+pymupdf 
+sentence-transformers
+chromadb
+langchain-groq
+streamlit
+numpy
+pandas
+langchain-text-splitters
+scikit-learn
+python-dotenv

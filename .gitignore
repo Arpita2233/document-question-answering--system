@@ -1,0 +1,37 @@
+# secrets
+.env
+.env.*
+secrets.toml
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+
+# virtual env
+venv/
+env/
+.venv/
+venvrag/
+
+# build
+dist/
+build/
+*.egg-info/
+
+# notebook
+.ipynb_checkpoints/
+
+# db / vector store
+chroma_db/
+vectorstore/
+db/
+
+# logs
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
